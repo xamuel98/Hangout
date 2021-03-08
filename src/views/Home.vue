@@ -714,6 +714,21 @@ a.explore-link:hover {
     }
 }
 
+@media only screen and (max-width: 768px) {
+    .logo-wrapper img {
+        width: 40%;
+    }
+
+    .explore-link span {
+        width: 16%;
+        height: 50px
+    }
+
+    .explore-link span img {
+        width: 100%;
+    }
+}
+
 @media only screen and (max-width: 1024px) {
     .page--explore {
         display: flex;
