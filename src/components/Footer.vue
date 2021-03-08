@@ -8,8 +8,8 @@
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-around align-items-center">
-                <div class="col-4">
+            <div class="row justify-content-around pt-10">
+                <div class="col-12 col-md-4 position-center d-flex justify-content-center align-item-center">
                     <ul class="footer-menu">
                         <h4 class="mb-7">Quick Links</h4>
                         <li class="pb-5">
@@ -35,7 +35,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-md-4 position-center d-flex justify-content-center align-item-center">
                     <ul class="footer-menu">
                         <h4 class="mb-7">Legal</h4>
                         <li class="pb-5">
@@ -54,7 +54,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-4">
+                <div class="col-12 col-md-4 position-center d-flex justify-content-center align-item-center">
                     <ul class="footer-menu">
                         <h4 class="mb-7">Socials</h4>
                         <li class="pb-5">
@@ -221,5 +221,11 @@ ul.footer-menu li a {
     -moz-transition: transform 1.2s cubic-bezier(.19,1,.22,1),-moz-transform 1.2s cubic-bezier(.19,1,.22,1);
     transition: transform 1.2s cubic-bezier(.19,1,.22,1);
     transition: transform 1.2s cubic-bezier(.19,1,.22,1),-webkit-transform 1.2s cubic-bezier(.19,1,.22,1),-moz-transform 1.2s cubic-bezier(.19,1,.22,1),-o-transform 1.2s cubic-bezier(.19,1,.22,1);
+}
+
+@media only screen and (max-width: 768px) {
+    .position-center {
+        text-align: center;
+    }
 }
 </style>
