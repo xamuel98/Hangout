@@ -121,7 +121,7 @@
                         <p class="activities-text pt-0 mb-5 mb-lg-7">Browse places by activities you’re interested in</p>
                     </div>
                     <div class="row justify-content-center">
-                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-6 col-6">
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                             <a href="#" class="space-showcase-block">
                                 <div class="space-showcase-img zoom-img">
                                     <img src="@/assets/images/activities/fun-games.png" alt="Fun &amp; Games" class="img-fluid">
@@ -131,7 +131,7 @@
                                 </div> 
                             </a>
                         </div>
-                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-6 col-6">
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                             <a href="#" class="space-showcase-block">
                                 <div class="space-showcase-img zoom-img">
                                     <img src="@/assets/images/activities/shopping.png" alt="Shopping" class="img-fluid">
@@ -141,7 +141,7 @@
                                 </div> 
                             </a>
                         </div>
-                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-6 col-6">
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                             <a href="#" class="space-showcase-block">
                                 <div class="space-showcase-img zoom-img">
                                     <img src="@/assets/images/activities/nightlife.png" alt="Nightlife" class="img-fluid">
@@ -151,7 +151,7 @@
                                 </div> 
                             </a>
                         </div>
-                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-6 col-6">
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                             <a href="#" class="space-showcase-block">
                                 <div class="space-showcase-img zoom-img">
                                     <img src="@/assets/images/activities/food-drinks.png" alt="Food &amp; Drinks" class="img-fluid">
@@ -161,7 +161,7 @@
                                 </div> 
                             </a>
                         </div>
-                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-6 col-6">
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                             <a href="#" class="space-showcase-block">
                                 <div class="space-showcase-img zoom-img">
                                     <img src="@/assets/images/activities/outdoor-activities.png" alt="Outdoor Activities" class="img-fluid">
@@ -171,7 +171,7 @@
                                 </div> 
                             </a>
                         </div>
-                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-6 col-6">
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                             <a href="#" class="space-showcase-block">
                                 <div class="space-showcase-img zoom-img">
                                     <img src="@/assets/images/activities/nature-parks.png" alt="Nature &amp; Parks" class="img-fluid">
@@ -182,7 +182,7 @@
                             </a>
                         </div>
                         <!-- Second row -->
-                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-6 col-6">
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                             <a href="#" class="space-showcase-block">
                                 <div class="space-showcase-img zoom-img">
                                     <img src="@/assets/images/activities/concerts-shows.png" alt="Concerts &amp; Shows" class="img-fluid">
@@ -192,7 +192,7 @@
                                 </div> 
                             </a>
                         </div>
-                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-6 col-6">
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                             <a href="#" class="space-showcase-block">
                                 <div class="space-showcase-img zoom-img">
                                     <img src="@/assets/images/activities/spa-wellness.png" alt="Spa &amp; Wellness" class="img-fluid">
@@ -202,7 +202,7 @@
                                 </div> 
                             </a>
                         </div>
-                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-6 col-6">
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                             <a href="#" class="space-showcase-block">
                                 <div class="space-showcase-img zoom-img">
                                     <img src="@/assets/images/activities/casinos.png" alt="Casinos" class="img-fluid">
@@ -212,7 +212,7 @@
                                 </div> 
                             </a>
                         </div>
-                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-6 col-6">
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                             <a href="#" class="space-showcase-block">
                                 <div class="space-showcase-img zoom-img">
                                     <img src="@/assets/images/activities/boat-tours.png" alt="Boat Tours" class="img-fluid">
@@ -222,7 +222,7 @@
                                 </div> 
                             </a>
                         </div>
-                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-6 col-6">
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                             <a href="#" class="space-showcase-block">
                                 <div class="space-showcase-img zoom-img">
                                     <img src="@/assets/images/activities/sights-landmarks.png" alt="Sights &amp; Landmarks" class="img-fluid">
@@ -232,7 +232,7 @@
                                 </div> 
                             </a>
                         </div>
-                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-6 col-6">
+                        <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                             <a href="#" class="space-showcase-block">
                                 <div class="space-showcase-img zoom-img">
                                     <img src="@/assets/images/activities/transportation.png" alt="Transportation" class="img-fluid">
@@ -247,7 +247,6 @@
             </section>
 
             <!-- Explore -->
-             <!-- py-8 py-lg-10 -->
             <section class="d-flex page--explore">
                 <div class="container sd-container--lg">
                     <div class="row justify-content-center">
@@ -292,6 +291,211 @@
                     </div>
                 </div>
             </section>
+
+            <!-- Suggested locations -->
+            <section class="suggested-places py-8 py-lg-10">
+                <div class="container sd-container--lg">
+                    <div class="row">
+                        <div class="col-md-11">
+                            <div class="suggested-header">
+                                <h1 class="suggested-title">
+                                    Suggested places for future <span>hangout</span>
+                                </h1>
+                            </div>
+                            <div class="tabs">
+                                <div class="hsroll-content pt-4 pt-lg-7 mb-8">
+                                    <ul class="nav nav-tabs nav-overflow header-tabs">
+                                        <li class="nav-item">
+                                            <a v-on:click="activetab=1" class="nav-link">
+                                                <span v-bind:class="[ activetab === 1 ? 'active' : '' ]" class="">
+                                                    Popular locations
+                                                </span>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a v-on:click="activetab=2" class="nav-link">
+                                                <span v-bind:class="[ activetab === 2 ? 'active' : '' ]">
+                                                    Locations for arts & culture
+                                                </span>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a v-on:click="activetab=3" class="nav-link">
+                                                <span v-bind:class="[ activetab === 3 ? 'active' : '' ]">
+                                                    Locations for nightlife
+                                                </span>
+                                            </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a v-on:click="activetab=4" class="nav-link">
+                                                <span v-bind:class="[ activetab === 4 ? 'active' : '' ]">
+                                                    Locations for food & drinks
+                                                </span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="content">
+                                    <div v-if="activetab === 1" class="row align-items-center">
+                                        <div class="col-12 col-md-4">
+                                            <div class="tab-content-wrapper">
+                                                <a href="#" class="tab-content-link">
+                                                    <div class="tab-content-item">
+                                                        <div class="tab-content-item-inner">
+                                                            <picture>
+                                                                <source srcset="@/assets/images/locations/location-1.png">
+                                                                <img src="@/assets/images/locations/location-1.png" alt="" srcset="@/assets/images/locations/location-1.png">
+                                                            </picture>
+                                                        </div>
+                                                        <div class="tab-content-item-title">
+                                                            Bogobiri House
+                                                            <address class="tab-content-item-text pt-3 mb-0">
+                                                                9, Maitama Street, Ikoyi, Lagos.
+                                                            </address>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-md-4">
+                                            <div class="tab-content-wrapper">
+                                                <a href="#" class="tab-content-link">
+                                                    <div class="tab-content-item">
+                                                        <div class="tab-content-item-inner">
+                                                            <picture>
+                                                                <source srcset="@/assets/images/locations/location-2.png">
+                                                                <img src="@/assets/images/locations/location-2.png" alt="" srcset="@/assets/images/locations/location-1.png">
+                                                            </picture>
+                                                        </div>
+                                                        <div class="tab-content-item-title">
+                                                            Jazz Hole
+                                                            <address class="tab-content-item-text pt-3 mb-0">
+                                                                168, Awolowo Road, Ikoyi, Lagos.
+                                                            </address>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-md-4">
+                                            <div class="tab-content-wrapper">
+                                                <a href="#" class="tab-content-link">
+                                                    <div class="tab-content-item">
+                                                        <div class="tab-content-item-inner">
+                                                            <picture>
+                                                                <source srcset="@/assets/images/locations/location-3.png">
+                                                                <img src="@/assets/images/locations/location-3.png" alt="" srcset="@/assets/images/locations/location-1.png">
+                                                            </picture>
+                                                        </div>
+                                                        <div class="tab-content-item-title">
+                                                            Motherlan'
+                                                            <address class="tab-content-item-text pt-3 mb-0">
+                                                                64B, Opebi Road, Ikeja, Lagos.
+                                                            </address>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-md-4">
+                                            <div class="tab-content-wrapper">
+                                                <a href="#" class="tab-content-link">
+                                                    <div class="tab-content-item">
+                                                        <div class="tab-content-item-inner">
+                                                            <picture>
+                                                                <source srcset="@/assets/images/locations/location-4.png">
+                                                                <img src="@/assets/images/locations/location-4.png" alt="" srcset="@/assets/images/locations/location-1.png">
+                                                            </picture>
+                                                        </div>
+                                                        <div class="tab-content-item-title">
+                                                            Ethnic Heritage Centre
+                                                            <address class="tab-content-item-text pt-3 mb-0">
+                                                                35A, Raymond Njoku Street, Ikoyi, Lagos.
+                                                            </address>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-md-4">
+                                            <div class="tab-content-wrapper">
+                                                <a href="#" class="tab-content-link">
+                                                    <div class="tab-content-item">
+                                                        <div class="tab-content-item-inner">
+                                                            <picture>
+                                                                <source srcset="@/assets/images/locations/location-5.png">
+                                                                <img src="@/assets/images/locations/location-5.png" alt="" srcset="@/assets/images/locations/location-1.png">
+                                                            </picture>
+                                                        </div>
+                                                        <div class="tab-content-item-title">
+                                                            Centre for Black &amp; African Arts &amp; Civilization
+                                                            <address class="tab-content-item-text pt-3 mb-0">
+                                                                36/38, Broad Street, Lagos Island, Lagos.
+                                                            </address>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-md-4">
+                                            <div class="tab-content-wrapper">
+                                                <a href="#" class="tab-content-link">
+                                                    <div class="tab-content-item">
+                                                        <div class="tab-content-item-inner">
+                                                            <picture>
+                                                                <source srcset="@/assets/images/locations/location-6.png">
+                                                                <img src="@/assets/images/locations/location-6.png" alt="" srcset="@/assets/images/locations/location-1.png">
+                                                            </picture>
+                                                        </div>
+                                                        <div class="tab-content-item-title">
+                                                            Nigerian Tourism Corporation, (NTDC)
+                                                            <address class="tab-content-item-text pt-3 mb-0">
+                                                                168, Obafemi Awolowo Way, Ikeja, Lagos.
+                                                            </address>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-md-4">
+                                            <div class="tab-content-wrapper">
+                                                <a href="#" class="tab-content-link">
+                                                    <div class="tab-content-item">
+                                                        <div class="tab-content-item-inner">
+                                                            <picture>
+                                                                <source srcset="@/assets/images/locations/location-7.png">
+                                                                <img src="@/assets/images/locations/location-7.png" alt="" srcset="@/assets/images/locations/location-1.png">
+                                                            </picture>
+                                                        </div>
+                                                        <div class="tab-content-item-title">
+                                                            Society for the Performing Arts of Nigeria (SPAN)
+                                                            <address class="tab-content-item-text pt-3 mb-0">
+                                                                13, Davis Street, off Marina, Lagos.
+                                                            </address>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div v-if="activetab === 2" class="tabcontent">
+                                        Content for tab two
+                                    </div>
+                                    <div v-if="activetab === 3" class="tabcontent">
+                                        Content for tab three
+                                    </div>
+                                    <div v-if="activetab === 4" class="tabcontent">
+                                        Content for tab three
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Footer -->
+            <Footer></Footer>
         </div>
     </div>
 </template>
@@ -300,12 +504,14 @@
 import Flickity from 'vue-flickity';
 import {gsap} from 'gsap/all'
 import Navbar from '@/components/Navbar'
+import Footer from '@/components/Footer'
 
 export default {
     name: "home",
     components: {
         Flickity,
         Navbar,
+        Footer,
     },
     data() {
         return {
@@ -320,7 +526,8 @@ export default {
                 initialIndex:3, 
                 draggable:false,
                 // any options from Flickity can be used
-            }
+            },
+            activetab: 1
         }
     },
     methods: {
@@ -755,5 +962,153 @@ a.explore-link:hover {
     .explore-images img {
         width: 50%;
     }
+}
+
+
+/* --------------------------------------------
+    Suggested places
+----------------------------------------- */
+.suggested-title {
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 27px;
+    line-height: 26px;
+    color: #000000;
+}
+
+.suggested-title span {
+    -webkit-text-stroke: thin;
+    -webkit-text-fill-color: #fff;
+}
+
+.hsroll-content {
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    white-space: nowrap;
+}
+
+.nav-overflow {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding-bottom: 1px;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.56rem 3rem;
+}
+
+.nav-tabs .nav-link span.active{
+    border-bottom: 2px solid #000;
+    background: transparent;
+    border-color: #fff #fff #000;
+    padding-bottom: 0.58rem;
+    color: #000;
+    pointer-events: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 17px;
+}
+
+.nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus{
+    cursor: pointer;
+    border-color: transparent;
+}
+
+.nav-tabs .nav-link:hover span, .nav-tabs .nav-link:focus span {
+    color: #000;
+}
+
+.nav-tabs .nav-link span {
+    color: #6D6D6D;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 17px;
+}
+
+.nav-tabs .nav-link:first-child {
+    padding-left: 0;
+}
+
+.tab-content-wrapper {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    flex-basis: 100%;
+    transition: box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1) 0s, transform 0.25s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    box-shadow: rgb(46 62 72 / 12%) 0px 0px 2px 0px, rgb(46 62 72 / 12%) 0px 2px 4px 0px;
+    background-color: white;
+}
+
+.tab-content-wrapper:hover {
+    box-shadow: rgb(46 62 72 / 12%) 0px 0px 4px 0px, rgb(46 62 72 / 12%) 0px 4px 12px 0px;
+    transform: translateY(-1px);
+}
+
+.tab-content-link {
+    text-decoration: none !important;
+    /* color: rgb(46, 62, 72); */
+}
+
+.tab-content-item {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+tab-content-item-inner {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    width: 88.8889px;
+    height: 50px;
+    border-radius: 8px 0px 0px 8px;
+}
+
+.tab-content-item-inner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+    opacity: 1;
+    transition: opacity 200ms ease 0s;
+    border: 0;
+    display: block;
+    line-height: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.tab-content-item-title {
+    flex-basis: 0px;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    box-sizing: border-box;
+    width: auto;
+    min-width: 0px;
+    padding-left: 24px;
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.tab-content-item-text {
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 12px;
+    color: #383838;
 }
 </style>

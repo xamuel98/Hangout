@@ -533,7 +533,7 @@ button:focus {
     display: none;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 991px) {
     .sd-sidebar.is--active {
         animation: slideInMenu 0.6s cubic-bezier(1, 0, 0, 1) forwards;
         opacity: 1;

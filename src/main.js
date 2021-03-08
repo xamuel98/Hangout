@@ -5,12 +5,15 @@ import App from './App'
 import router from './router'
 
 import 'bootstrap/dist/css/bootstrap.css'
+import { BootstrapVue } from 'bootstrap-vue'
 // import './assets/css/theme.css'
 import jQuery from 'jquery'
 
 Vue.config.productionTip = false
 
 window.$ = window.jQuery = jQuery;
+
+Vue.use(BootstrapVue)
 
 /* eslint-disable no-new */
 new Vue({
