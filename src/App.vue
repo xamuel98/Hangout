@@ -181,7 +181,7 @@ ul.footer-menu li a {
     -webkit-box-pack: justify;
     justify-content: space-between;
     width: 100%;
-    padding: 0.5rem 2rem;
+    padding: 0.5rem 2rem !important;
     -ms-flex-flow: row wrap;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -193,7 +193,7 @@ ul.footer-menu li a {
 
 .sd-nav {
     padding: 20px ​40px;
-    position: fixed;
+    position: fixed !important;
     width: 100%;
     z-index: 3;
     line-height: 60px;
@@ -1069,13 +1069,13 @@ h1.h1-resize {
 }
 
 .label-wrapper-inner-field:focus {
-    box-shadow: none;
-    outline: none;
+    box-shadow: none !important;
+    outline: none !important;
 }
 
 .btn-black {
-    background-color: #000;
-    color: #fff;
+    background-color: #000 !important;
+    color: #fff !important;
 }
 
 .btn-black.rounded-circle:hover img, .btn-black.rounded-xl:hover img {
@@ -1354,7 +1354,7 @@ a.explore-link span img {
 
 .nav-overflow {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: nowrap !important;
     overflow-x: auto;
     overflow-y: hidden;
     padding-bottom: 1px;
@@ -1380,7 +1380,7 @@ a.explore-link span img {
 
 .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus{
     cursor: pointer;
-    border-color: transparent;
+    border-color: transparent !important;
 }
 
 .nav-tabs .nav-link:hover span, .nav-tabs .nav-link:focus span {
@@ -1507,8 +1507,8 @@ tab-content-item-inner {
 }
 
 body {
-    font-family: 'Neue Machina';
-    font-weight: 400;
+    font-family: 'Neue Machina' !important;
+    font-weight: 500;
 }
 
 .w-25 {

@@ -88,7 +88,7 @@
                             Made with 
                             <span style="color: #dc143c;">❤</span>
                              by 
-                            <a href="#" target="_blank" style="color: #edc702;" rel="noopener noreferrer">Samuel Sanni</a>
+                            <a href="https://twitter.com/iam_xamuel" target="_blank" style="color: #edc702;" rel="noopener noreferrer">Samuel Sanni</a>
                             <span class="all_rights">Copyrights {{new Date().getFullYear()}} </span>
                             <span class="all_rights">
                                 All Rights Reserved

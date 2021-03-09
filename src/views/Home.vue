@@ -558,5 +558,8 @@ export default {
 </script>
 
 <style>
-
+.card-footer.bg-white a {
+    font-family: 'Neue Machina';
+    font-weight: 500;
+}
 </style>
