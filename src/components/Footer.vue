@@ -1,15 +1,15 @@
 <template>
     <footer>
         <div class="container">
-            <div class="row justify-content-center align-items-center">
+            <div class="pt-10 row justify-content-center align-items-center">
                 <div class="col-12">
                     <div class="footer-logo text-center">
                         <img src="@/assets/logo-yellow.svg" alt="">
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-around pt-10">
-                <div class="col-12 col-md-4 position-center d-flex justify-content-center align-item-center">
+            <div class="pt-10 row justify-content-around">
+                <div class="col-12 pb-5 col-md-4 position-center d-flex justify-content-center align-item-center">
                     <ul class="footer-menu">
                         <h4 class="mb-7">Quick Links</h4>
                         <li class="pb-5">
@@ -35,7 +35,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-12 col-md-4 position-center d-flex justify-content-center align-item-center">
+                <div class="col-12 pb-5 col-md-4 position-center d-flex justify-content-center align-item-center">
                     <ul class="footer-menu">
                         <h4 class="mb-7">Legal</h4>
                         <li class="pb-5">
@@ -54,7 +54,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-12 col-md-4 position-center d-flex justify-content-center align-item-center">
+                <div class="col-12 pb-5 col-md-4 position-center d-flex justify-content-center align-item-center">
                     <ul class="footer-menu">
                         <h4 class="mb-7">Socials</h4>
                         <li class="pb-5">
@@ -81,6 +81,22 @@
                     </ul>
                 </div>
             </div>
+            <div class="pt-7 row justify-content-center align-items-center">
+                <div class="col-12">
+                    <div class="text-center">
+                        <p class="footer-copyright text-white">
+                            Made with 
+                            <span style="color: #dc143c;">❤</span>
+                             by 
+                            <a href="#" target="_blank" style="color: #edc702;" rel="noopener noreferrer">Samuel Sanni</a>
+                            <span class="all_rights">Copyrights {{new Date().getFullYear()}} </span>
+                            <span class="all_rights">
+                                All Rights Reserved
+                            </span>
+                        </p>
+                    </div>
+                </div>
+            </div>
         </div>
     </footer>
 </template>
@@ -97,7 +113,7 @@ footer {
     background-color: #000;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: auto;
     background-attachment: fixed;
 }
 
@@ -227,5 +243,24 @@ ul.footer-menu li a {
     .position-center {
         text-align: center;
     }
+}
+
+.all_rights {
+    margin-left: 2rem;
+    position: relative;
+}
+
+.all_rights::before {
+    content: "";
+    display: inline-block;
+    width: 3px;
+    height: 3px;
+    border-radius: 100%;
+    background-color: #fff;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    left: -1.2rem;
 }
 </style>

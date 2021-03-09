@@ -5,7 +5,72 @@
             <section class="hero-wrapper hero-slide space-lg overflow-hidden">
                 <div class="container sd-container--lg">
                     <div class="row justify-content-center align-items-center">
-                        <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12 col-12 mb-5 mb-md-0 order-lg-0 order-sm-2 position-relative">
+                        <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 col-12 order-sm-2 mb-6 mb-lg-5">
+                            <flickity ref="flickity" class="main-carousel overflow-visible" :options="flickityOptions">
+                                <div class="carousel-cell col-12 px-0">
+                                    <div class="card card-sm bg-gradient border-0">
+                                        <a href="">
+                                            <img class="card-img-top" src="@/assets/images/nike-art-gallery.png" alt="Nike Art Gallery">
+                                        </a>
+                                        <div class="card-footer d-flex justify-content-between bg-white">
+                                            <a href="" class="h6 m-0 text-dark font-weight-600">Nike Art Gallery</a>
+                                            <a target="_blank" href="" data-toggle="tooltip" data-placement="top"
+                                                title="Open in new tab"><i class="icon-popup"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="carousel-cell col-12 px-0">
+                                    <div class="card card-sm bg-gradient border-0">
+                                        <a href="">
+                                            <img class="card-img-top" src="@/assets/images/hard-rock-cafe.png" alt="Hard Rock Cafe">
+                                        </a>
+                                        <div class="card-footer d-flex justify-content-between bg-white">
+                                            <a href="" class="h6 m-0 text-dark font-weight-600">Hard Rock Cafe</a>
+                                            <a target="_blank" href="" data-toggle="tooltip" data-placement="top"
+                                                title="Open in new tab"><i class="icon-popup"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="carousel-cell col-12 px-0">
+                                    <div class="card card-sm bg-gradient border-0">
+                                        <a href="">
+                                            <img class="card-img-top" src="@/assets/images/oniru-beach.png" alt="Oniru Beach">
+                                        </a>
+                                        <div class="card-footer d-flex justify-content-between bg-white">
+                                            <a href="" class="h6 m-0 text-dark font-weight-600">Oniru Beach</a>
+                                            <a target="_blank" href="" data-toggle="tooltip" data-placement="top"
+                                                title="Open in new tab"><i class="icon-popup"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="carousel-cell col-12 px-0">
+                                    <div class="card card-sm bg-gradient border-0">
+                                        <a href="">
+                                            <img class="card-img-top" src="@/assets/images/hard-rock-cafe.png" alt="Hard Rock Cafe">
+                                        </a>
+                                        <div class="card-footer d-flex justify-content-between bg-white">
+                                            <a href="" class="h6 m-0 text-dark font-weight-600">Hard Rock Cafe</a>
+                                            <a target="_blank" href="" data-toggle="tooltip" data-placement="top"
+                                                title="Open in new tab"><i class="icon-popup"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="carousel-cell col-12 px-0">
+                                    <div class="card card-sm bg-gradient border-0">
+                                        <a href="">
+                                            <img class="card-img-top" src="@/assets/images/nike-art-gallery.png" alt="Nike Art Gallery">
+                                        </a>
+                                        <div class="card-footer d-flex justify-content-between bg-white">
+                                            <a href="" class="h6 m-0 text-dark font-weight-600">Nike Art Gallery</a>
+                                            <a target="_blank" href="" data-toggle="tooltip" data-placement="top"
+                                                title="Open in new tab"><i class="icon-popup"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                            </flickity>
+                        </div>
+                        <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12 col-12 mb-5 mb-md-0 order-sm-1 position-relative">
                             <!-- Intro start -->
                             <h1 class="hero-title">Looking for nice places to <span>hangout</span> in Lagos?</h1>
                             <p class="hero-text">
@@ -41,71 +106,6 @@
                                     </div>
                                 </form>
                             </div>
-                        </div>
-                        <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 col-12">
-                            <flickity ref="flickity" class="main-carousel overflow-visible" :options="flickityOptions">
-                                <div class="carousel-cell col-11">
-                                    <div class="card card-sm bg-gradient border-0">
-                                        <a href="">
-                                            <img class="card-img-top" src="@/assets/images/nike-art-gallery.png" alt="Nike Art Gallery">
-                                        </a>
-                                        <div class="card-footer d-flex justify-content-between bg-white">
-                                            <a href="" class="h6 m-0 text-dark font-weight-600">Nike Art Gallery</a>
-                                            <a target="_blank" href="" data-toggle="tooltip" data-placement="top"
-                                                title="Open in new tab"><i class="icon-popup"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="carousel-cell col-11">
-                                    <div class="card card-sm bg-gradient border-0">
-                                        <a href="">
-                                            <img class="card-img-top" src="@/assets/images/hard-rock-cafe.png" alt="Hard Rock Cafe">
-                                        </a>
-                                        <div class="card-footer d-flex justify-content-between bg-white">
-                                            <a href="" class="h6 m-0 text-dark font-weight-600">Hard Rock Cafe</a>
-                                            <a target="_blank" href="" data-toggle="tooltip" data-placement="top"
-                                                title="Open in new tab"><i class="icon-popup"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="carousel-cell col-11">
-                                    <div class="card card-sm bg-gradient border-0">
-                                        <a href="">
-                                            <img class="card-img-top" src="@/assets/images/oniru-beach.png" alt="Oniru Beach">
-                                        </a>
-                                        <div class="card-footer d-flex justify-content-between bg-white">
-                                            <a href="" class="h6 m-0 text-dark font-weight-600">Oniru Beach</a>
-                                            <a target="_blank" href="" data-toggle="tooltip" data-placement="top"
-                                                title="Open in new tab"><i class="icon-popup"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="carousel-cell col-11">
-                                    <div class="card card-sm bg-gradient border-0">
-                                        <a href="">
-                                            <img class="card-img-top" src="@/assets/images/hard-rock-cafe.png" alt="Hard Rock Cafe">
-                                        </a>
-                                        <div class="card-footer d-flex justify-content-between bg-white">
-                                            <a href="" class="h6 m-0 text-dark font-weight-600">Hard Rock Cafe</a>
-                                            <a target="_blank" href="" data-toggle="tooltip" data-placement="top"
-                                                title="Open in new tab"><i class="icon-popup"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="carousel-cell col-11">
-                                    <div class="card card-sm bg-gradient border-0">
-                                        <a href="">
-                                            <img class="card-img-top" src="@/assets/images/nike-art-gallery.png" alt="Nike Art Gallery">
-                                        </a>
-                                        <div class="card-footer d-flex justify-content-between bg-white">
-                                            <a href="" class="h6 m-0 text-dark font-weight-600">Nike Art Gallery</a>
-                                            <a target="_blank" href="" data-toggle="tooltip" data-placement="top"
-                                                title="Open in new tab"><i class="icon-popup"></i></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            
-                            </flickity>
                         </div>
                     </div>
                 </div>
@@ -278,6 +278,12 @@
                                     <img src="@/assets/images/explore/explore-img-3.png" alt="">
                                     <img src="@/assets/images/explore/explore-img-4.png" alt="">
                                     <img src="@/assets/images/explore/explore-img-5.png" alt="">
+                                    <img src="@/assets/images/explore/explore-img-13.png" alt="">
+                                    <img src="@/assets/images/explore/explore-img-12.png" alt="">
+                                    <img src="@/assets/images/explore/explore-img-11.png" alt="">
+                                    <img src="@/assets/images/explore/explore-img-10.png" alt="">
+                                    <img src="@/assets/images/explore/explore-img-9.png" alt="">
+                                    <img src="@/assets/images/explore/explore-img-8.png" alt="">
                                 </div>
                                 <div class="img-stripe stripe2">
                                     <img src="@/assets/images/explore/explore-img-5.png" alt="">
@@ -285,6 +291,12 @@
                                     <img src="@/assets/images/explore/explore-img-3.png" alt="">
                                     <img src="@/assets/images/explore/explore-img-2.png" alt="">
                                     <img src="@/assets/images/explore/explore-img-1.png" alt="">
+                                    <img src="@/assets/images/explore/explore-img-8.png" alt="">
+                                    <img src="@/assets/images/explore/explore-img-9.png" alt="">
+                                    <img src="@/assets/images/explore/explore-img-10.png" alt="">
+                                    <img src="@/assets/images/explore/explore-img-11.png" alt="">
+                                    <img src="@/assets/images/explore/explore-img-12.png" alt="">
+                                    <img src="@/assets/images/explore/explore-img-13.png" alt="">
                                 </div>
                             </div>
                         </div>
@@ -518,13 +530,14 @@ export default {
             flickityOptions: {
                 cellAlign: "center", 
                 contain: true, 
-                prevNextButtons: false, 
+                prevNextButtons: true, 
                 pageDots:true, 
                 wrapAround:true, 
-                autoPlay:5000, 
+                autoPlay:1500, 
+                pauseAutoPlayOnHover: true,
                 imagesLoaded:true, 
                 initialIndex:3, 
-                draggable:false,
+                draggable:true,
                 // any options from Flickity can be used
             },
             activetab: 1
@@ -539,6 +552,7 @@ export default {
 
             flickity_viewport.style.height = '256.547px';
             flickity_page_dots.style.bottom = '-40px';
+
     }
 }
 </script>
@@ -595,6 +609,24 @@ export default {
     transition: opacity .35s ease, transform .35s ease, -webkit-transform .35s ease;
 }
 
+.flickity-button.flickity-prev-next-button {
+    display: block;
+}
+
+.flickity-page-dots {
+    display: none;
+}
+
+@media only screen and (min-width: 992px) {
+    .flickity-button.flickity-prev-next-button {
+        display: none;
+    }
+
+    .flickity-page-dots {
+        display: block;
+    }
+}
+
 .hero-title, .activities-title {
     font-family: 'Neue Machina';
     font-weight: 900;
@@ -627,6 +659,17 @@ export default {
     }
 }
 
+@media only screen and (max-width: 768px) {
+    .card.card-sm.bg-gradient {
+        height: 256.547px;
+    }
+
+    .card.card-sm.bg-gradient a img {
+        height: 200.547px;
+        object-fit: none;
+        object-position: center;
+    }
+}
 
 .card-img-top {
     width: 100%;
@@ -652,6 +695,7 @@ export default {
     border-radius: 6.52px;
     background: #fff;
     box-shadow: 0 0 1rem rgb(0 0 0 / 15%);
+    user-select: none;
 }
 
 .search-bar .form-group {
@@ -730,7 +774,14 @@ export default {
     color: #fff;
 }
 
+.btn-black.rounded-circle:hover img, .btn-black.rounded-xl:hover img {
+    transform: rotate(45deg);
+    transition: .5s;
+}
 
+.btn-black.rounded-circle img, .btn-black.rounded-xl img {
+    transition: .5s;
+}
 
 /* --------------------------------------------
     Activities
@@ -852,6 +903,15 @@ export default {
 a.explore-link:hover {
     color: #fff;
     text-decoration: none;
+}
+
+a.explore-link:hover span img {
+    transform: rotate(45deg);
+    transition: .5s;
+}
+
+a.explore-link span img {
+    transition: .5s;
 }
 
 .explore-link span {
